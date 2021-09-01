@@ -31,4 +31,5 @@ func main() {
 	}
 	open := asdf.Scan()
 	fmt.Printf("Port Open: %t\n", open)
+	//if you cant get response close the run.
 }
